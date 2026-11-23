@@ -1,0 +1,29 @@
+M,definicao,termo,VIF
+3,dentro de UF,F,1.302626143056102
+3,dentro de UF,H,1.302626143056102
+3,com dummies,F,4.12532846307283
+3,com dummies,H,5.192835162664671
+4,dentro de UF,F,1.5075373800734255
+4,dentro de UF,H,1.5536788824911678
+4,dentro de UF,ln_renda,2.599643227111589
+4,dentro de UF,edu,1.9025415785482693
+4,com dummies,F,4.774268424071714
+4,com dummies,H,6.193640727616027
+4,com dummies,ln_renda,9.917431324121676
+4,com dummies,edu,2.7336893581971493
+5,dentro de UF,F,1.5289783252805822
+5,dentro de UF,H,1.6624424722870024
+5,dentro de UF,ln_renda,3.0437695312658444
+5,dentro de UF,edu,2.6858476016355413
+5,dentro de UF,urb,1.6246657684908337
+5,dentro de UF,jovens,2.67605617463822
+5,dentro de UF,idosos,2.7223788925832806
+5,dentro de UF,ln_pop,2.084768916244223
+5,com dummies,F,4.842170440325396
+5,com dummies,H,6.6272197683255625
+5,com dummies,ln_renda,11.611737709994376
+5,com dummies,edu,3.859191877390085
+5,com dummies,urb,2.1069791397861457
+5,com dummies,jovens,7.576603045753692
+5,com dummies,idosos,5.029714069484604
+5,com dummies,ln_pop,2.448666432516268
